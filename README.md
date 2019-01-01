@@ -1,2 +1,2 @@
 # Circle-Packages
-Repository for Circle's custom repository
+Repository for Circle's custom packages
